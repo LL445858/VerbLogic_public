@@ -16,10 +16,10 @@
 #### data/excel
 - XXXX.xlsx 数据表格
 
-### data/fig
+#### data/fig
 - XXX.png/emf 数据图
 
-### data/result
+#### data/result
 - verb  各个大模型动词抽取结果
 - attribute  各个大模型属性抽取结果
 - category  各个大模型分类结果
