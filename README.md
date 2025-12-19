@@ -38,7 +38,7 @@
 - plot_verb.py 动词统计柱状图
 - plot_cat.py 分类统计柱状图
 - plot_c2c.py 分类转移和弦图
-- plot_c2c_net.py 动词转移和弦图
+- plot_c2c_net.py 动词转移网络图
 
 ### statistics 数据统计
 - cluster.py 层级/kmeans聚类统计
